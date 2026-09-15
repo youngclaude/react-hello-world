@@ -30,6 +30,15 @@ h1 {
   color: #f8fafc;
 }
 
+.clock {
+  margin: 0 0 1rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: clamp(1.75rem, 5vw, 2.25rem);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.06em;
+  color: #e2e8f0;
+}
+
 .subtitle {
   margin: 0;
   color: #94a3b8;
